@@ -78,8 +78,9 @@ export function About() {
               }`}
             >
               <p className="text-lg text-slate-300 mb-6 leading-relaxed">
-                I'm Pearl Wangui, a passionate full-stack developer with over 2 years of experience creating innovative
-                digital solutions. I love transforming complex challenges into elegant, user-friendly applications.
+              I’m Pearl Wangui Mwangi, a passionate full-stack developer and UI/UX designer dedicated to building clean, responsive web applications using technologies like React, Node.js, and MySQL. I maintain GAIF’s website and contribute to its blog content. Beyond tech, I’m an advocate for climate action, driven to use innovation for environmental impact. As a mentee in the Microsoft ADC WINS program, I’m continuously growing and applying my skills to real-world, meaningful solutions.
+
+
               </p>
               <p className="text-lg text-slate-300 mb-8 leading-relaxed">
                 When I'm not coding, you'll find me exploring emerging technologies, contributing to open-source
